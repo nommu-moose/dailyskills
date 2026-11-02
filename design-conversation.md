@@ -72,6 +72,6 @@ Record, read by every skill, interpreted by `study`: `INDEX.md`, `POSITION.md`, 
 
 Shared references, loaded only when needed: record rules for all five; lenses for `study` and `studyread`, and for periphery when it has a lens; note-judgment for `studyread`, `studynotes`, and periphery. Gap and periphery procedures are separate files.
 
-## Not done
+## Written
 
-No `SKILL.md` files yet. No installer yet. Next work is writing those in this folder, in the voice of the development bundle: short entrypoints, hard "do not" rules, modes loaded only when selected.
+The five skills, their mode files, `dailyskills-shared`, and `install.py` are in this folder. Short entrypoints, hard "do not" rules, modes loaded only when selected. An agent installs from the public git URL by the README. The record is still created only when the user names a folder.
